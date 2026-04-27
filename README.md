@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Fredrick Mwangi
+# Hi there , I'm Fredrick Mwangi
 
  Full Stack Developer |  Open Source Enthusiast | Lifelong Learner  
 
@@ -57,6 +57,10 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fredmallin&layout=compact&theme=radical)
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ### 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=fredmallin&theme=onedark)
