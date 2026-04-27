@@ -71,9 +71,10 @@
 </p>
 
 ### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=fredmallin&theme=onedark)
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fredmallin&theme=radical&no-frame=true&margin-w=10&row=2&column=3" />
+</p>
 
 ### 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fredmallin&theme=radical)
