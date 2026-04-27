@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=fredmallin&color=blue&style=flat-square" />
 </p>
 
-### 👨 About Me
+###  About Me
 - 🔭 I’m currently working on **Full Stack projects**
 - 🌱 I’m learning...
 -⚡ Fun fact: ...
