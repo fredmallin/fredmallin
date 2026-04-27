@@ -13,7 +13,7 @@
 </p>
 
 ###  About Me
-- 🔭 I’m currently working on **Full Stack projects**
+- I’m currently working on **Full Stack projects**
 - 🌱 I’m learning...
 -⚡ Fun fact: ...
 - 👯 I’m looking to collaborate on **web development and open-source projects**
