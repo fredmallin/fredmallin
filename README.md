@@ -18,7 +18,7 @@
 - Fun fact: ...
 -  I’m looking to collaborate on **web development and open-source projects**
 -  Ask me about **JavaScript, React, Node.js, and databases**
-- 📫 How to reach me:  
+-  How to reach me:  
 
 <p align="left">
   <a href="https://linkedin.com" target="_blank">
