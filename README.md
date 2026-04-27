@@ -60,7 +60,7 @@
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fredmallin&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fredmallin&layout=compact&theme=radical)
 
