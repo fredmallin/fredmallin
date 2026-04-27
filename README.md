@@ -1,8 +1,16 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+I'm+Fredrick+Mwangi;Full+Stack+Developer;React+%7C+Node.js+%7C+Firebase;Open+Source+Enthusiast;Always+Building+Cool+Stuff&center=true&width=600&height=50">
+</p>
+
 # Hi there , I'm Fredrick Mwangi
 
  Full Stack Developer |  Open Source Enthusiast | Lifelong Learner  
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fredmallin&color=blue&style=flat-square" />
+</p>
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **Full Stack projects**
