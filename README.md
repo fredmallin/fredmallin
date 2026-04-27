@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Fredrick Mwangi
 
-💻 Full Stack Developer | 🌍 Open Source Enthusiast | 🚀 Lifelong Learner  
+ Full Stack Developer |  Open Source Enthusiast | Lifelong Learner  
 
 ---
 
