@@ -17,7 +17,7 @@
 -  I’m learning...
 - Fun fact: ...
 -  I’m looking to collaborate on **web development and open-source projects**
-- 💬 Ask me about **JavaScript, React, Node.js, and databases**
+-  Ask me about **JavaScript, React, Node.js, and databases**
 - 📫 How to reach me:  
 
 <p align="left">
