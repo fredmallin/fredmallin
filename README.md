@@ -21,7 +21,7 @@
 -  How to reach me:  
 
 <p align="left">
-  <a href="https://linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/fredrick-mwangi-465231380/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff" />
   </a>
   <a href="https://wa.me/254748257989" target="_blank">
