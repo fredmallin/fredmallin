@@ -13,12 +13,15 @@
 </p>
 
 ###  About Me
-- I’m currently working on **Full Stack projects**
--  I’m learning...
-- Fun fact: ...
--  I’m looking to collaborate on **web development and open-source projects**
--  Ask me about **JavaScript, React, Node.js, and databases**
--  How to reach me:  
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+- 💻 Frontend & Backend Developer
+- 🌱 Currently learning React, Flask & Python
+- 🎨 Passionate about UI/UX Design
+- 🚀 Building amazing and interactive projects
+- 💖 Love coding and creativity
+- ⚡ Fun fact: I can spend hours fixing one CSS bug 
+
 
 <p align="left">
   <a href="https://www.linkedin.com/in/fredrick-mwangi-465231380/" target="_blank">
@@ -60,7 +63,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fredmallin&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fredmallin&layout=compact&theme=radical)
 
@@ -70,18 +73,18 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=fredmallin&theme=radical&no-frame=true&margin-w=10&row=2&column=3" />
 </p>
 
-### 🔥 Streak Stats
+### Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fredmallin&theme=radical)
 
 ---
 
-### 🐶 Fun Zone
+### Fun Zone
 <p align="center">
   <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="200" />
 </p>
